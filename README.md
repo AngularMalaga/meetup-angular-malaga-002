@@ -16,17 +16,13 @@
 
 ## Programa
 
-### :speech_balloon: Angular 5 - Novedades
-
-:clock2: 18:30 - 18:50
+### :clock2: 18:30 - 18:50 :speech_balloon: Angular 5 - Novedades
 
 :man: Rubén Triviño
 
 Repaso por las principales novedades de Angular 5.
 
-### :speech_balloon: Lazy Loading con Angular
-
-:clock2: 18:50 - 19:10
+### :clock2: 18:50 - 19:10 :speech_balloon: Lazy Loading con Angular
 
 :man: Carlos Caballero
 
