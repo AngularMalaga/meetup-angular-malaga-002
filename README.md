@@ -28,22 +28,18 @@ Repaso por las principales novedades de Angular 5.
 
 Cómo mejorar el rendimiento en el tiempo de carga de tu aplicación.
 
-### :speech_balloon: PWAs
-
-:clock2: 19:10 - 19:30
+### :clock2: 19:10 - 19:30 :speech_balloon: PWAs
 
 :man: Pablo Ortuño
 
 Cómo las PWAs pueden ser de interés para nuestra web.
 
-### :speech_balloon: Animaciones en Angular
-
-:clock2: 19:30 - 19:50
+### :clock2: 19:30 - 19:50 :speech_balloon: Animaciones en Angular
 
 :man: Luis José Sánchez
 
 Mejora la experiencia de usuario incorporando animaciones en tu aplicación.
 
-### :beers: 20:00 - 20:30 Cervezas y socialización.
+### :clock2 20:00 - 20:30 :beers: Cervezas y socialización.
 
 No es necesario traer portátil ni ningún otro material.
