@@ -40,6 +40,6 @@ Cómo las PWAs pueden ser de interés para nuestra web.
 
 Mejora la experiencia de usuario incorporando animaciones en tu aplicación.
 
-### :clock2 20:00 - 20:30 :beers: Cervezas y socialización.
+### :clock2: 20:00 - 20:30 :beers: Cervezas y socialización.
 
 No es necesario traer portátil ni ningún otro material.
