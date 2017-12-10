@@ -8,10 +8,12 @@
 
 ## Lugar y fecha
 
-:spot: Accenture Digital Building. Calle Severo Ochoa, 21, I+D 6 Sur - Parque Tecnológico Andalucía, 29590 Málaga
+:round_pushpin: Accenture Digital Building. Calle Severo Ochoa, 21, I+D 6 Sur - Parque Tecnológico Andalucía, 29590 Málaga
 
-:calendar: Viernes 15 de diciembre de 2017
+:date: Viernes 15 de diciembre de 2017
 
-:clock: De 18:30h hasta 20:00h
+:clock2: De 18:30h hasta 20:00h
 
 ## Programa
+
+* :beers: 20:00 - 20:30 Cervezas y socialización.
