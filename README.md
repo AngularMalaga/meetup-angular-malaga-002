@@ -8,7 +8,7 @@
 
 ## Lugar y fecha
 
-:round_pushpin: Accenture Digital Building. Calle Severo Ochoa, 21, I+D 6 Sur - Parque Tecnológico Andalucía, 29590 Málaga
+:round_pushpin: **Accenture Digital Building**. Calle Severo Ochoa, 21, I+D 6 Sur - Parque Tecnológico Andalucía, 29590 Málaga
 
 :date: Viernes 15 de diciembre de 2017
 
@@ -16,4 +16,38 @@
 
 ## Programa
 
-* :beers: 20:00 - 20:30 Cervezas y socialización.
+### :speech_balloon: Angular 5 - Novedades
+
+:clock2: 18:30 - 18:50
+
+:man: Rubén Triviño
+
+Repaso por las principales novedades de Angular 5.
+
+### :speech_balloon: Lazy Loading con Angular
+
+:clock2: 18:50 - 19:10
+
+:man: Carlos Caballero
+
+Cómo mejorar el rendimiento en el tiempo de carga de tu aplicación.
+
+### :speech_balloon: PWAs
+
+:clock2: 19:10 - 19:30
+
+:man: Pablo Ortuño
+
+Cómo las PWAs pueden ser de interés para nuestra web.
+
+### :speech_balloon: Animaciones en Angular
+
+:clock2: 19:30 - 19:50
+
+:man: Luis José Sánchez
+
+Mejora la experiencia de usuario incorporando animaciones en tu aplicación.
+
+### :beers: 20:00 - 20:30 Cervezas y socialización.
+
+No es necesario traer portátil ni ningún otro material.
