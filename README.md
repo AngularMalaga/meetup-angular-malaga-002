@@ -36,7 +36,7 @@ Cómo las PWAs pueden ser de interés para nuestra web.
 
 ### :clock2: 19:30 - 19:50 :speech_balloon: Animaciones en Angular
 
-<img src="https://avatars0.githubusercontent.com/u/840797?s=40&v=4"> [Luis José Sánchez](https://github.com/LuisJoseSanchez)
+<img src="https://avatars0.githubusercontent.com/u/840797?s=40&v=4" width="20px"> [Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
 Mejora la experiencia de usuario incorporando animaciones en tu aplicación.
 
