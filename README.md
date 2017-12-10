@@ -36,7 +36,7 @@ Cómo las PWAs pueden ser de interés para nuestra web.
 
 ### :clock2: 19:30 - 19:50 :speech_balloon: Animaciones en Angular
 
-:man: Luis José Sánchez
+:man: [Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
 Mejora la experiencia de usuario incorporando animaciones en tu aplicación.
 
