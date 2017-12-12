@@ -14,7 +14,17 @@
 
 :clock2: De 18:30h hasta 20:00h
 
+## Acceso y registro
+
+El control de acceso al edificio de Accenture será a partir de las 18:00h con vuestro **DNI** o **carnet de conducir**. Para hacerlo todo más rápido inscribete al formulario facilitado por Accenture. Rogamos puntualidad para empezar las charlas a las 18:30h.
+
+Formulario de registro: <https://goo.gl/forms/Ks7WAlhnciVnY2lO2>
+
 ## Programa
+
+### :clock2: 18:00 - 18:30 :edit: Acceso a las instalaciones
+
+Acceso mediante **DNI** o **carnet de conducir**. Solo se permiten los usuarios registrados previamente.
 
 ### :clock2: 18:30 - 18:50 :speech_balloon: Angular 5 - Novedades
 
