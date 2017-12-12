@@ -22,7 +22,7 @@ Formulario de registro: <https://goo.gl/forms/Ks7WAlhnciVnY2lO2>
 
 ## Programa
 
-### :clock2: 18:00 - 18:30 :edit: Acceso a las instalaciones
+### :clock2: 18:00 - 18:30 :pencil: Acceso a las instalaciones
 
 Acceso mediante **DNI** o **carnet de conducir**. Solo se permiten los usuarios registrados previamente.
 
