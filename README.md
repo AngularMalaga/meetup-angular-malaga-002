@@ -34,7 +34,7 @@ Repaso por las principales novedades de Angular 5.
 
 ### :clock2: 18:50 - 19:10 :speech_balloon: Lazy Loading con Angular
 
-:man: Carlos Caballero
+<a href="https://github.com/Caballerog"><img src="https://avatars2.githubusercontent.com/u/8807391?s=460&v=4" width="20px"></a> [Carlos Caballero](https://github.com/Caballerog)
 
 Cómo mejorar el rendimiento en el tiempo de carga de tu aplicación.
 
