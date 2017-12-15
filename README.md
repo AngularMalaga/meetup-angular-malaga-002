@@ -38,6 +38,10 @@ Repaso por las principales novedades de Angular 5.
 
 Cómo mejorar el rendimiento en el tiempo de carga de tu aplicación.
 
+[Presentación](https://caballerog.github.io/tour-heroes-lazy/)
+
+[Ejemplos](https://github.com/Caballerog/tour-heroes-lazy/)
+
 ### :clock2: 19:10 - 19:30 :speech_balloon: PWAs
 
 :man: Pablo Ortuño
